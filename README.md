@@ -1,4 +1,10 @@
 # Go语言高级编程 (Advanced Go Programming)
+##安装步骤：
+
+1. npm install -g npm
+2. npm install gitbook-cli -g
+3. go mod tidy
+4. go run server.go
 
 *推广: 欢迎关注 [网易云课堂·光谷码农课堂](https://study.163.com/provider/480000001914454/index.htm)*
 
